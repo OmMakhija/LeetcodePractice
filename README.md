@@ -17,4 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
