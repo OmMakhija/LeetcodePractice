@@ -4,10 +4,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -45,4 +47,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
