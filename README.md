@@ -23,6 +23,7 @@
 | [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -32,4 +33,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
