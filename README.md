@@ -22,6 +22,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
