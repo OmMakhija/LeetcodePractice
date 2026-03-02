@@ -51,10 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/OmMakhija/LeetcodePractice/tree/main/0191-number-of-1-bits/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
