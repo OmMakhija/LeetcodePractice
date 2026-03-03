@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -54,12 +56,14 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0100-same-tree/) | Easy |
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
