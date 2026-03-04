@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -116,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
