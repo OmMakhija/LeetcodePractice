@@ -11,6 +11,7 @@
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
@@ -21,6 +22,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
+| [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -83,6 +86,7 @@
 | [0112-path-sum](https://github.com/OmMakhija/LeetcodePractice/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/OmMakhija/LeetcodePractice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
