@@ -14,6 +14,7 @@
 | [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/OmMakhija/LeetcodePractice/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0437-path-sum-iii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/OmMakhija/LeetcodePractice/tree/main/0547-number-of-provinces/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -77,6 +78,7 @@
 | [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/OmMakhija/LeetcodePractice/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0437-path-sum-iii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0437-path-sum-iii/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
@@ -92,6 +94,7 @@
 | [0226-invert-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/OmMakhija/LeetcodePractice/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0437-path-sum-iii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0437-path-sum-iii/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Divide and Conquer
