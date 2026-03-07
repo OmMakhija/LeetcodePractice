@@ -50,6 +50,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/OmMakhija/LeetcodePractice/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,4 +128,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
