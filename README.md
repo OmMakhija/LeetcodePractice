@@ -51,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/OmMakhija/LeetcodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +134,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
