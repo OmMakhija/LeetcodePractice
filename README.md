@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
+| [0125-valid-palindrome](https://github.com/OmMakhija/LeetcodePractice/tree/main/0125-valid-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +143,8 @@
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/OmMakhija/LeetcodePractice/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
