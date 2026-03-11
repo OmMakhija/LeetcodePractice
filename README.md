@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
+| [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -147,4 +148,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/OmMakhija/LeetcodePractice/tree/main/0125-valid-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
