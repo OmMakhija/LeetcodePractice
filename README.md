@@ -54,6 +54,7 @@
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
+| [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -139,11 +140,13 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
+| [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
