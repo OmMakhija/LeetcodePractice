@@ -47,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/OmMakhija/LeetcodePractice/tree/main/0125-valid-palindrome/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
@@ -130,6 +132,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
