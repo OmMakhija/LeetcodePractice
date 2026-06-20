@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0390-elimination-game/) | Medium |
 | [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -143,6 +144,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/OmMakhija/LeetcodePractice/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/OmMakhija/LeetcodePractice/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
