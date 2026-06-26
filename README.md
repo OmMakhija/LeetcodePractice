@@ -46,6 +46,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/OmMakhija/LeetcodePractice/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/OmMakhija/LeetcodePractice/tree/main/0125-valid-palindrome/) | Easy |
@@ -62,6 +63,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/OmMakhija/LeetcodePractice/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
