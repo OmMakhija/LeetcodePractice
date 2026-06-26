@@ -30,9 +30,9 @@ class Solution {
             int leftIdx = breakpoint + 1 + i;
             int rightIdx = nums.length - 1 - i;
             
-            int temp2 = nums[leftIdx];
+            temp = nums[leftIdx];
             nums[leftIdx] = nums[rightIdx];
-            nums[rightIdx] = temp2;
+            nums[rightIdx] = temp;
         }
 
         return;
