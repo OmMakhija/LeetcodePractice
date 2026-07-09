@@ -70,6 +70,7 @@
 | [0056-merge-intervals](https://github.com/OmMakhija/LeetcodePractice/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/OmMakhija/LeetcodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/OmMakhija/LeetcodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -132,6 +133,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
