@@ -65,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/OmMakhija/LeetcodePractice/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/OmMakhija/LeetcodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/OmMakhija/LeetcodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/OmMakhija/LeetcodePractice/tree/main/0056-merge-intervals/) | Medium |
@@ -133,6 +134,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
