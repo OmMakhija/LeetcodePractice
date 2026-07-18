@@ -75,6 +75,7 @@
 | [0118-pascals-triangle](https://github.com/OmMakhija/LeetcodePractice/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/OmMakhija/LeetcodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -137,6 +138,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmMakhija/LeetcodePractice/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Hash Table
