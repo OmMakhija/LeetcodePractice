@@ -1,8 +1,12 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int  hours) {
-        Arrays.sort(piles);
+        int h = 0; 
+        for (int i = 0;i<piles.length;i++) {
+            if (piles[i] > h) {
+                h = piles[i];
+            }
+        }
         int l = 1;
-        int h = piles[piles.length-1];
 
         int ans = Integer.MAX_VALUE;
 
