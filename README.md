@@ -77,6 +77,7 @@
 | [0152-maximum-product-subarray](https://github.com/OmMakhija/LeetcodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -129,6 +130,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/OmMakhija/LeetcodePractice/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/OmMakhija/LeetcodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
@@ -160,10 +163,12 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/OmMakhija/LeetcodePractice/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
