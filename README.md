@@ -82,6 +82,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OmMakhija/LeetcodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmMakhija/LeetcodePractice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmMakhija/LeetcodePractice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/OmMakhija/LeetcodePractice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/OmMakhija/LeetcodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmMakhija/LeetcodePractice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
