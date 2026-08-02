@@ -60,6 +60,7 @@
 | [0390-elimination-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0390-elimination-game/) | Medium |
 | [0415-add-strings](https://github.com/OmMakhija/LeetcodePractice/tree/main/0415-add-strings/) | Easy |
 | [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/OmMakhija/LeetcodePractice/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/OmMakhija/LeetcodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/OmMakhija/LeetcodePractice/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmMakhija/LeetcodePractice/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
@@ -186,6 +188,7 @@
 | [0119-pascals-triangle-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/OmMakhija/LeetcodePractice/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/OmMakhija/LeetcodePractice/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +210,8 @@
 | [0048-rotate-image](https://github.com/OmMakhija/LeetcodePractice/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/OmMakhija/LeetcodePractice/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/OmMakhija/LeetcodePractice/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
