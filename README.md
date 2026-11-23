@@ -83,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/OmMakhija/LeetcodePractice/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0561-array-partition](https://github.com/OmMakhija/LeetcodePractice/tree/main/0561-array-partition/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/OmMakhija/LeetcodePractice/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/OmMakhija/LeetcodePractice/tree/main/0877-stone-game/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/OmMakhija/LeetcodePractice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -171,6 +172,7 @@
 | [0075-sort-colors](https://github.com/OmMakhija/LeetcodePractice/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/OmMakhija/LeetcodePractice/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/OmMakhija/LeetcodePractice/tree/main/0229-majority-element-ii/) | Medium |
+| [0561-array-partition](https://github.com/OmMakhija/LeetcodePractice/tree/main/0561-array-partition/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,4 +241,12 @@
 | [1683-invalid-tweets](https://github.com/OmMakhija/LeetcodePractice/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/OmMakhija/LeetcodePractice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/OmMakhija/LeetcodePractice/tree/main/1934-confirmation-rate/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/OmMakhija/LeetcodePractice/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/OmMakhija/LeetcodePractice/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
